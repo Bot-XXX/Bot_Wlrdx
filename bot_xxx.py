@@ -9,7 +9,7 @@ intents.members = True
 with open('setting.json','r',encoding='utf8') as jfile:
     xxxtan = json.load(jfile)
 
-bot = commands.Bot(command_prefix='X', intents = intents)
+bot = commands.Bot(command_prefix='', intents = intents)
 
 @bot.event
 async def on_ready():
@@ -49,12 +49,13 @@ async def ping(ctx):
 
 @bot.command()
 async def 圖片(ctx):
-    pic = discord.File('E:\\QQQ\\pic\\A2.jpg')
+    random_pic = random.choice(xxxtan['pic'])
+    pic = discord.File(random_pic)
     await ctx.send(file=pic)
 
 @bot.command()
 async def 圖(ctx):
-    pic = discord.File('E:\\QQQ\\pic\\A1.jpg')
-    await ctx.send(file=pic)
+     random_pic = random.choice(xxxtan['url_pic'])
+     await ctx.sen(random_pic)
 
 bot.run(xxxtan['TOKEN']) 
