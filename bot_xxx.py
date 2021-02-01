@@ -6,7 +6,7 @@ import random
 intents = discord.Intents.default()
 intents.members = True
 
-with open('setting.json','r',encoding='utf8') as jfile:
+with open('setting.json','r',encoding='utf') as jfile:
     xxxtan = json.load(jfile)
 
 bot = commands.Bot(command_prefix='', intents = intents)
