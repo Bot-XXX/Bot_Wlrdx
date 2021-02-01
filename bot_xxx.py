@@ -56,6 +56,6 @@ async def 圖片(ctx):
 @bot.command()
 async def 圖(ctx):
      random_pic = random.choice(xxxtan['url_pic'])
-     await ctx.sen(random_pic)
+     await ctx.send(random_pic)
 
 bot.run(xxxtan['TOKEN']) 

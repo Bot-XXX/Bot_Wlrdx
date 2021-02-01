@@ -1,11 +1,17 @@
 {
-     "TOKEN":"ODA1MDU4MDQ4MzA1MDA0NTU1.YBVWuw.Rht1d-ugpdI8YZd0RLZfhqsBJ7U",
+     "TOKEN": "ODA1MDU4MDQ4MzA1MDA0NTU1.YBVWuw.oZAVOEHMc5b8RVU2aWnvOqKHdWI",
      " Welcome_channel":  "805084597381234739",
-     "Leave_channel":"805089502065721364",
+     "Leave_channel": "805089502065721364",
     
-        "pic":[],
+     "pic":  ["C:\\QQQ\\pic\\P11.jpg",
+          "C:\\QQQ\\pic\\P12.jpg",
+          "C:\\QQQ\\pic\\P13.jpg",
+          "C:\\QQQ\\pic\\P2.jpg",
+          "C:\\QQQ\\pic\\P3.jpg",
+          "C:\\QQQ\\pic\\P4.jpeg"],
                  
-        "url_pic":["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ruten.com.tw%2Fitem%2Fshow%3F22030965888023&psig=AOvVaw2-XgVHKhhJFJhEecoJ0Wty&ust=1612241879313000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC19IT2x-4CFQAAAAAdAAAAABAD",
-                         "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.wannianli.tianqi.com%2Fnews%2F264071.html&psig=AOvVaw2-XgVHKhhJFJhEecoJ0Wty&ust=1612241879313000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC19IT2x-4CFQAAAAAdAAAAABAU" ]
-      
+          "url_pic": ["https://media.gettyimages.com/photos/kobe-bryant-of-the-los-angeles-lakers-looks-on-against-the-washington-picture-id499681918?k=6&m=499681918&s=612x612&w=0&h=quoBOz5ZeO63_vcia1IYuT2nG-kpZ9VSbbCIF9cm-MY=",
+                         "https://media.gettyimages.com/photos/kobe-bryant-of-the-los-angeles-lakers-adjusts-his-jersey-during-the-picture-id139369178?k=6&m=139369178&s=612x612&w=0&h=K-UOodyCdS0FopjEwzm7Q-7OcGeTAlnO-GeX8il98fQ=",
+                         "https://media.gettyimages.com/photos/los-angeles-lakers-guard-kobe-bryant-and-chicago-bulls-guard-michael-picture-id51641823?k=6&m=51641823&s=612x612&w=0&h=MbAu7c4t-EjYIDrewrjKpudRTwR90EJ_YZhc8lpcOo4=",
+                         " https://media.gettyimages.com/photos/kobe-bryant-of-the-los-angeles-lakers-holds-the-larry-obrian-trophy-picture-id51549493?k=6&m=51549493&s=612x612&w=0&h=mKJ0Kw2iCgnHBjluxp1JApglXJ_bD_bjXQwrKqp_cdk="]
 }
